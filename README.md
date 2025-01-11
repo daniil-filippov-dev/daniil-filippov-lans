@@ -29,12 +29,6 @@
 &nbsp;&nbsp;
 ![Leetcode Stats](https://leetcard.jacoblin.cool/daniil-filippov-dev?ext=heatmap)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-dev&count_private=true&hide=issues&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-dev&layout=compact&langs_count=6)
-
-![codewars](https://www.codewars.com/users/daniil-filippov-lans/badges/large)
-
-
 ### 🧗 About Me
 
 Won several programming competitions and hackathons.
