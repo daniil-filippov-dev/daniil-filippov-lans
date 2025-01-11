@@ -37,9 +37,8 @@
 
 ### 🧗 About Me
 
-I like active recreation, contests and meetups.
+Won several programming competitions and hackathons.
 
-![github-user-contribution](https://github.com/daniil-filippov-dev/daniil-filippov-dev/blob/main/github-user-contribution.svg)
  
 [github]: https://github.com/daniil-filippov-dev
 [telegram]: https://t.me/danil_lans
